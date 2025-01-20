@@ -103,7 +103,7 @@ const productos = [
     nombre: "Sudadera con Capucha de Impresión 3D de Rayo Degradado para Niños",
     precio: 20,
     categoria: "niños",
-    imagen: "/CatalogoRopa/image/Nino/Ropa de niño.4png", // Ruta corregida
+    imagen: "/CatalogoRopa/image/Nino/Ropa de niño4.png", // Ruta corregida
   },
   {
     id: 16,
